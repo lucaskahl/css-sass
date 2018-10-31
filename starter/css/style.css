@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 0 - 600px - Phone
 600 - 900px - Tablet Portrait
@@ -7,10 +8,10 @@
 1800px +* - Big desktop
 
 $breakpoint escolha do ponto de quebra
-- phone
-- tab-port
-- tab-land
-- big-desktop
+- phone // Celular
+- tab-port // tablet pé
+- tab-land // tablet deitado
+- big-desktop // pc grande +1800
 
 //ORDER: Base + typgraphy > general latout + grid > page layout > components
 
